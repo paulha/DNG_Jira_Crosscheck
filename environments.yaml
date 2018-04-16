@@ -19,10 +19,10 @@ AIA:
 
 BXT-P-IVI:
     jazz_server: production
-    path: Programs/Broxton-P IVI (BXT-P-IVI)
-    name: Kings Falls | Bare Metal | O-MR1
+    path: Programs/Broxton-P IVI (BXT-P)
+    name: Broxton-P IVI | Bare Metal | P
     jira_server: jira01
-    jira_query: project=OAM and summary~'Kings Falls | Bare Metal | O-MR1' order by key
+    jira_query: project=OAM and summary~'Broxton-P IVI | Bare Metal | P' order by key
     xls: BXT-P-IVI.xlsx
 
 EHL:
