@@ -6,7 +6,7 @@ jira
 openpyxl
 requests
 urllib3
-git+https://github.com/paulha/jazz_dng_client.git
-git+https://bitbucket.org/paulha/otc_tools.git
-git+https://github.com/paulha/utility_funcs.git
+git+http://github.com/paulha/jazz_dng_client.git
+git+http://github.com/paulha/jira_client.git
+git+http://github.com/paulha/utility_funcs.git
 pandas
