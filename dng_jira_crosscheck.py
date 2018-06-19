@@ -6,7 +6,7 @@ import sys
 from openpyxl import Workbook
 
 from jazz_dng_client import *
-from jira_class import Jira, get_query
+from jira_client.jira_class import Jira, get_query
 import utility_funcs.logger_yaml as log
 
 
